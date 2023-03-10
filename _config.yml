@@ -2,8 +2,9 @@ title:              Western Ukrainian Club
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Lesqero
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl: /westernukies
+url: http://westernukies.github.io
+
 
 # Social Profiles
 twitter_username:   SBootstrap
