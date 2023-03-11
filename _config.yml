@@ -24,3 +24,18 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+#admin rights
+jekyll_admin:
+  hidden_links:
+#    - posts
+#    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "_pages"
+
+  #ollections:
+  #posts:
+  #  output: true
+  #  sidebar_label: News
